@@ -1,7 +1,4 @@
----
-## 🎥 Demo
-Check out the live version of the game: [Whack-A-Mole Live Demo](#)
-
+# Whack A Mole
 ---
 
 ## 📸 Screenshots
