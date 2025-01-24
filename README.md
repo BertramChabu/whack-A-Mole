@@ -1,6 +1,4 @@
 # Whack A Mole
----
-
 ## 📸 Screenshots
 ### Game Interface
 ![Screenshot (336)](https://github.com/BertramChabu/whack-A-Mole/assets/145387124/ee40df80-758d-4354-8dd0-2a8ff547e133)
