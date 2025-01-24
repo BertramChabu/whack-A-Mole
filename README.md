@@ -1,13 +1,37 @@
+---
+## 🎥 Demo
+Check out the live version of the game: [Whack-A-Mole Live Demo](#)
+
+---
+
+## 📸 Screenshots
+### Game Interface
 ![Screenshot (336)](https://github.com/BertramChabu/whack-A-Mole/assets/145387124/ee40df80-758d-4354-8dd0-2a8ff547e133)
-Develop a simple whack a mole game where one tries to click the mole in order to gain points.
-If he or she accidentally clicks the piranha plant the game ends 
-Hope u enjoy this and it helps u in ur coding carreer 
-Follow me on Instagram @https://www.instagram.com/cha.bu?igsh=N3V3Y3p2ZTJpN2Nl
-🙏😭Nami Amida Butsu😭🙏
-@@@@@@@@@@@@@@@@@      @@@         @@@         @@@@@@@@@@            @@@@@@@@@@@@@@@@@@@@@          @@@@         @@@@
-@@@@@@@@@@@@@@@@@      @@@         @@@        @@@      @@@           @@@@             @@@@          @@@@         @@@@
-@@@@                   @@@@@@@@@@@@@@@       @@@        @@@          @@@@             @@@@          @@@@         @@@@
-                                            @@@@@@@@@@@@@@@@         @@@@@@@@@@@@@@@@@@@@@          @@@@         @@@@
-@@@@                   @@@@@@@@@@@@@@@     @@@@@@@@@@@@@@@@@@        @@@@             @@@@          @@@@         @@@@
-@@@@@@@@@@@@@@@@@      @@@         @@@    @@@              @@@       @@@@             @@@@          @@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@      @@@         @@@   @@@                @@@      @@@@@@@@@@@@@@@@@@@@@          @@@@@@@@@@@@@@@@@
+
+
+---
+
+## 🌟 Why This Project?
+This project demonstrates:
+- Proficiency in **JavaScript** for interactive elements.
+- Skills in **CSS3 animations** and responsive design.
+- Knowledge of **DOM manipulation** and event handling.
+
+---
+
+## 🤝 Acknowledgements
+- Inspired by the classic **Whack-A-Mole** arcade game.
+- Mario-themed graphics courtesy of the **Nintendo universe**.
+
+---
+
+## 📫 Connect with Me
+- **GitHub**: [@BertramChabu](https://github.com/BertramChabu)
+- **Instagram**: [@cha.bu](https://www.instagram.com/b.e.r.t.r.am/)
+- **LinkedIn**: [Bertram Chabu](https://www.linkedin.com/in/BertramChabu0)
+
+---
+
+### 🙏 Thank You for Playing!
+Enjoy the game, and I hope it inspires you in your coding journey!
+
